@@ -54,6 +54,10 @@ margin: auto;
     
 }
 
+.list-container{
+    text-align: right;
+}
+
 .link-secondary{
     color:var(--primary-color);
     border-radius:0.5rem;
